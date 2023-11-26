@@ -1,0 +1,30 @@
+
+<Assignment2 - flatlist, navigation, static data>
+
+1. put content in home(=weatherdegailscreen)
+2. navigate to cityListScreen
+-> build structure using MyListItem(as it repeats)
+3. theming (week5 file)
+
+
+***************************************************
+
+<Assignment3- API>
+
+1.add
+-real feel
+-chance of rain
+-humidity
+
+2.put proper data name
+
+3.style + font
+
+4.cusomize icons
+
+5. put it in the portfolio
+1) design process - include figma file with a blurb
+2) development process - react native setting / page navigation / static data / live api fetch
+3) conclusion/reflection
+4) github repository
+
